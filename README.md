@@ -1,6 +1,6 @@
 # PyData PDX Website
 
-This repository contains the source code for the website [pdx.pydata.org](https://www.meetup.com/PyData-PDX/).
+This repository contains the source code for the website [pdx.pydata.org](https://pdx.pydata.org).
 
 ## Developing
 
