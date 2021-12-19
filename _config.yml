@@ -10,3 +10,7 @@ kramdown:
 
 plugins:
   - jekyll-sitemap
+
+collections:
+  meetups:
+    permalink: /meetups/:date
