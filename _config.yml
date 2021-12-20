@@ -13,4 +13,3 @@ plugins:
 
 collections:
   meetups:
-    permalink: /meetups/:date
