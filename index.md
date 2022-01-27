@@ -26,10 +26,9 @@ Behind the scenes, unpaid volunteers organize the logistics and content of every
 The organizers have day jobs to pay their bills and dedicate their free time for the benefit of the community.
 
 The current organizers are:
-- Allison Sliter
-- Sam Hoffman
-- Tom Baldwin
-- Natalie Denning
-- Trevor Bhattacharya
+{% assign current_organizers = site.organizers %}
+{% for organizer in current_organizers %}
+{{ organizer.content }}
+{% endfor %}
 
 
