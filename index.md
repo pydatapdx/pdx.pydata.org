@@ -1,9 +1,7 @@
 ---
-layout: main
 title:  PyData PDX
 ---
 
-{% include hero.html %}
 
 # Welcome to Pydata PDX!
 ## About the Community

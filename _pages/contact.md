@@ -1,5 +1,4 @@
 ---
-layout: main
 title:  PyData PDX
 ---
 # Contact Us
