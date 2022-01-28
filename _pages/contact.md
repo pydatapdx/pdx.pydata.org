@@ -1,5 +1,7 @@
 ---
 title:  PyData PDX
+permalink: /contact/
+author_profile: false
 ---
 # Contact Us
 

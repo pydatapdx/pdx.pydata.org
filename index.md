@@ -1,5 +1,10 @@
 ---
 title:  PyData PDX
+permalink: /
+layout: home
+header:
+    image: /assets/images/hero.png
+    image_description: "Photo image of downtown Portland with bridges"
 ---
 
 

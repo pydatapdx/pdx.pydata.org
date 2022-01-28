@@ -1,5 +1,7 @@
 ---
 title:  PyData PDX
+permalink: /meetups/
+author_profile: false
 ---
 # Past Meetup Events
 _materials for some talks pending_

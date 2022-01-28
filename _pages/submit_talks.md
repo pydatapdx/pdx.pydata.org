@@ -1,5 +1,7 @@
 ---
 title:  PyData PDX
+permalink: /submit_talks/
+author_profile: false
 ---
 # Speaking at PyData PDX Meetups
 Have you been working on an interesting project that you want to show off?

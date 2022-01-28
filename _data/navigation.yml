@@ -1,13 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "About"
+#      url: /about/
+  - title: "Home"
+    url: /
   - title: "Meetups"
     url: /meetups/
   - title: "Submit Talks"
     url: /submit_talks/
+  - title: "Contact"
+    url: /contact/
