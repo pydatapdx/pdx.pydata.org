@@ -1,9 +1,8 @@
 ---
-title:  PyData PDX
+title:  Contact Us
 permalink: /contact/
 author_profile: false
 ---
-# Contact Us
 
 The best way to get in touch with us is by email: [pydatapdx@gmail.com](mailto:pydatapdx@gmail.com)
 

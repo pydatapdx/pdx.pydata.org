@@ -1,9 +1,9 @@
 ---
-title:  PyData PDX
+title:  Past Meetup Events
 permalink: /meetups/
 author_profile: false
 ---
-# Past Meetup Events
+
 _materials for some talks pending_
 
 {% assign past_meetups = site.meetups | sort: 'date' | reverse %}

@@ -1,5 +1,5 @@
 ---
-title:  PyData PDX
+title:  Welcome to Pydata PDX!
 permalink: /
 layout: home
 header:
@@ -8,7 +8,6 @@ header:
 ---
 
 
-# Welcome to Pydata PDX!
 ## About the Community
 
 The monthly REMOTE meetups are put together by a group of volunteers organizers passionate about Python.

@@ -1,9 +1,8 @@
 ---
-title:  PyData PDX
+title:  Speaking at PyData PDX Meetups
 permalink: /submit_talks/
 author_profile: false
 ---
-# Speaking at PyData PDX Meetups
 Have you been working on an interesting project that you want to show off?
 Found a really cool library that you want everyone to know about?
 Get in touch and let’s get you on the stage!
