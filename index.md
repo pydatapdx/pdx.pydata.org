@@ -3,8 +3,8 @@ title:  Welcome to Pydata PDX!
 permalink: /
 layout: home
 header:
-    image: /assets/images/hero.png
-    image_description: "Photo image of downtown Portland with bridges"
+    image: /assets/images/pydata-portland-logo.png
+    image_description: "PyData logo with a photo image of downtown Portland with bridges in the background"
 ---
 
 
