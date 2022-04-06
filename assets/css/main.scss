@@ -4,8 +4,11 @@
 
 @charset "utf-8";
 
-$global-font-family: "Work Sans",sans-serif;
-$doc-font-size: 12 !default;
+$global-font-family: "Work Sans", sans-serif;
+$header-font-family: "Work Sans", sans-serif;
+$sans-serif-narrow: "Lato", sans-serif;
+$doc-font-size: 1rem;
+$right-sidebar-width: 100px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
