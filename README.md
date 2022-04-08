@@ -26,3 +26,13 @@ See [this article](https://ddewaele.github.io/running-jekyll-in-docker/)
 ```
 docker rm -f pydatapdx
 ```
+
+## Customizations
+Some of the theme defaults were customized to match the existing site. As a result,
+all the default .scss files needed to be brought in. See [Minimal Mistakes' Documentation](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/)
+for further instructions on how to customize styles and layout. 
+
+Notes:
+ - See `assets/css/main.scss` for a list of SCSS variables that were overriden. 
+ - Hero image styles and html (`_page.scss` and `page__hero.html`) were customized to match the old site.
+ - Custom font links are listed in `head.html`.
