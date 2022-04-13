@@ -21,7 +21,7 @@ We now meet online rather than in person, and will continue to do so for the dur
 All speakers at PyData PDX meetups and conferences do so altruistically!
 Many thanks to all speakers who volunteer their time to prepare fantastic content to educate and enlighten fellow Pythonistas.
 
-We welcome speakers from all levels and backgrounds &mdash; [please submit a talk!](/submit)
+We welcome speakers from all levels and backgrounds &mdash; [please submit a talk!](/submit_talks)
 
 ## About the Organizers
 Behind the scenes, unpaid volunteers organize the logistics and content of every meetup.
